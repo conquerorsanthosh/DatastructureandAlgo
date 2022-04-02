@@ -1,0 +1,12 @@
+D:\Documents\Personal\Interview\DatastructureandAlgo\DSProblems\ConsoleApp1\bin\Debug\netcoreapp3.1\DSProblems.exe
+D:\Documents\Personal\Interview\DatastructureandAlgo\DSProblems\ConsoleApp1\bin\Debug\netcoreapp3.1\DSProblems.deps.json
+D:\Documents\Personal\Interview\DatastructureandAlgo\DSProblems\ConsoleApp1\bin\Debug\netcoreapp3.1\DSProblems.runtimeconfig.json
+D:\Documents\Personal\Interview\DatastructureandAlgo\DSProblems\ConsoleApp1\bin\Debug\netcoreapp3.1\DSProblems.runtimeconfig.dev.json
+D:\Documents\Personal\Interview\DatastructureandAlgo\DSProblems\ConsoleApp1\bin\Debug\netcoreapp3.1\DSProblems.dll
+D:\Documents\Personal\Interview\DatastructureandAlgo\DSProblems\ConsoleApp1\bin\Debug\netcoreapp3.1\DSProblems.pdb
+D:\Documents\Personal\Interview\DatastructureandAlgo\DSProblems\ConsoleApp1\obj\Debug\netcoreapp3.1\DSProblems.AssemblyInfoInputs.cache
+D:\Documents\Personal\Interview\DatastructureandAlgo\DSProblems\ConsoleApp1\obj\Debug\netcoreapp3.1\DSProblems.AssemblyInfo.cs
+D:\Documents\Personal\Interview\DatastructureandAlgo\DSProblems\ConsoleApp1\obj\Debug\netcoreapp3.1\DSProblems.csproj.CoreCompileInputs.cache
+D:\Documents\Personal\Interview\DatastructureandAlgo\DSProblems\ConsoleApp1\obj\Debug\netcoreapp3.1\DSProblems.dll
+D:\Documents\Personal\Interview\DatastructureandAlgo\DSProblems\ConsoleApp1\obj\Debug\netcoreapp3.1\DSProblems.pdb
+D:\Documents\Personal\Interview\DatastructureandAlgo\DSProblems\ConsoleApp1\obj\Debug\netcoreapp3.1\DSProblems.genruntimeconfig.cache

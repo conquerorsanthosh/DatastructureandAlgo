@@ -25,7 +25,7 @@ namespace DSProblems
 		}
 		public void Insert(string input) 
 		{
-			if (input!=null) return;
+			if (input==null) return;
 			TrieNode current = root;
 			for(int i = 0; i < input.Length; i++) 
 			{
@@ -40,20 +40,28 @@ namespace DSProblems
 				}
 			}
 			current.isEndOfWord = true;
+			Console.WriteLine("inserted" + input);
 		}
 
 		public bool search(string input)
 		{
+			if (input == null || root==null) return false ;
+			TrieNode current = root;
+			for (int i = 0; i < input.Length; i++)
+			{
+				if (current.childrens.ContainsKey(input[i]))
+				{
+					current = current.childrens[input[i]];
 
+				}
+				else 
+				{
+					return false;
+				}
+			}
+			Console.WriteLine("isEndofWord"+current.isEndOfWord);
+			return current.isEndOfWord;	
 
-			return false;
 		}
-
-		public bool search(string input , bool isCompleteMatch) 
-		{
-
-			return false;
-		}
-
 	}
 }

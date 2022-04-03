@@ -14,6 +14,7 @@ namespace DSAndAlgorithms
 			myTrie.Insert("catapultasians");
 			Console.WriteLine("dog--Present?"+  myTrie.search("Dog"));
 			Console.WriteLine("cat--Present?" + myTrie.search("cat"));
+			myTrie.PrintAllWords();
 			Console.ReadLine();
 		}
 	}

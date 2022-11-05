@@ -1,0 +1,44 @@
+Dynamic Programming  and Problem Solving
+
+Find the largest rectange in an histogram-Completed.
+Find the largest rectange in an binary matrix-Completed
+Print all the paths with minimum jumps-Incomplete
+
+- Two Sum - https://leetcode.com/problems/two-sum/  Completed
+-.Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+  Multiple variations are there. 
+  
+  Have completed 1 transactions
+  Have completed 2 tranactions
+  Have completed infinite tranactions.
+  
+  Need to complete
+  Inifite tranactions with fees
+  Infite tranactions with cool down
+  K transactions 
+
+
+-Rotate an Array by N Elements Coded and Completed
+
+We’re given an array of integers, nums. Rotate the array by n elements, where n is an integer:
+For positive values of n, perform a right rotation.
+For negative values of n, perform a left rotation.
+Make sure we make changes to the original array.
+
+-Find a minimum element in sorted rotated array Understood the logic , Not coded- Completed
+https://www.youtube.com/watch?v=IzHR_U8Ly6c
+
+
+
+-Contains Duplicate:
+Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+
+
+
+
+
+Binary Tree
+-Max Depth of binary Tree
+
+
+  

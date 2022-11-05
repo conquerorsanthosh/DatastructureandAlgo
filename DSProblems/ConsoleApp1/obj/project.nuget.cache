@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Msj7qVpLvu7UdU51CtE/0t8780SqgKY1jRNhgd5fr4TfeEgUCFfwsuvSox72jvkH+hxii6RWM0pwxrJqxvACJg==",
+  "dgSpecHash": "fnPSL53ydtloNONbIIcbgqKo3qht+V6HzghGqPFz8/+0f0T49AgRb19zubIE4KXamnqsYvTBVQmdmsYk419Rdw==",
   "success": true,
   "projectFilePath": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\DSProblems\\ConsoleApp1\\DSProblems.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sankrish\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sankrish\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\sankrish\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\sankrish\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -4,44 +4,45 @@ using System.Text;
 
 namespace SlidingWindow
 {
-	public static class FindMaxInEachWindow
+public static class FindMaxInEachWindow
+{
+	public static List<int> FindMax(int[] input,int windowsize)
 	{
-		public static List<int> FindMax(int[] input,int windowsize)
-		{
-			List<int> dequeue = new List<int>();
-			int startWindow = 0;
-			int endWindow = 0;
-			List<int> result = new List<int>();
+		List<int> dequeue = new List<int>();
+		int startWindow = 0;
+		int endWindow = 0;
+		List<int> result = new List<int>();
 
 			//2 4 8 12 5 6 21 26 20 44 5 7
-			while (endWindow < input.Length) 
+			while (endWindow < input.Length)
 			{
-					//remove all the elements from the end of the list
-					while (dequeue != null && dequeue.Count != 0 && input[dequeue[dequeue.Count - 1]] < input[endWindow]) 
-					{
-						dequeue.RemoveAt(dequeue.Count - 1);
-					}
-					dequeue.Add(endWindow);
+				//remove all the elements from the end of the list
+				while (dequeue != null && dequeue.Count != 0 && input[dequeue[dequeue.Count - 1]] < input[endWindow])
+				{
+					dequeue.RemoveAt(dequeue.Count - 1);
+				}
+				dequeue.Add(endWindow);
 
-					if (endWindow - startWindow + 1 == windowsize)
-					{
-						//choose the max element
-						result.Add(input[dequeue[0]]);
+				if (endWindow - startWindow + 1 == windowsize)
+				{
+					//choose the max element
+					result.Add(input[dequeue[0]]);
 
-						//remove the element from the Dequeue which will be going out of scope
-						if ((endWindow-windowsize) + 1 == dequeue[0]) 
-						{
-							dequeue.Remove(0);
-					
-						}
-						startWindow++;
+					//remove the element from the Dequeue which will be going out of scope
+					if ((endWindow - windowsize) + 1 == dequeue[0])
+					{
+						dequeue.RemoveAt(0);
 
 					}
-					endWindow++;
+					startWindow++;
+
+				}
+				endWindow++;
 			}
 
+			result.ForEach(Console.WriteLine);
 			return result;
-		}
+	}
 		
 	}
 }

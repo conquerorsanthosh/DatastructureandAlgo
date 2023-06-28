@@ -1,0 +1,16 @@
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\bin\x64\Debug\net5.0\Educative.exe
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\bin\x64\Debug\net5.0\Educative.deps.json
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\bin\x64\Debug\net5.0\Educative.runtimeconfig.json
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\bin\x64\Debug\net5.0\Educative.runtimeconfig.dev.json
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\bin\x64\Debug\net5.0\Educative.dll
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\bin\x64\Debug\net5.0\ref\Educative.dll
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\bin\x64\Debug\net5.0\Educative.pdb
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\obj\x64\Debug\net5.0\Educative.csproj.AssemblyReference.cache
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\obj\x64\Debug\net5.0\Educative.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\obj\x64\Debug\net5.0\Educative.AssemblyInfoInputs.cache
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\obj\x64\Debug\net5.0\Educative.AssemblyInfo.cs
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\obj\x64\Debug\net5.0\Educative.csproj.CoreCompileInputs.cache
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\obj\x64\Debug\net5.0\Educative.dll
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\obj\x64\Debug\net5.0\ref\Educative.dll
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\obj\x64\Debug\net5.0\Educative.pdb
+D:\Documents\Personal\Interview\DatastructureandAlgo\Educative\Educative\obj\x64\Debug\net5.0\Educative.genruntimeconfig.cache

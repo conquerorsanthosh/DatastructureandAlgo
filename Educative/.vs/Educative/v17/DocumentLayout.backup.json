@@ -1,0 +1,704 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\Educative\\Educative.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Educative\\Educative.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Binary Search\\2Dmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\Binary Search\\2Dmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Binary Search\\BinarySearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\Binary Search\\BinarySearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\SurroundedRegion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\SurroundedRegion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\NumberOfIslands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\NumberOfIslands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\RemoveDuplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\RemoveDuplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\RemoveElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\RemoveElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\ReverseNodeKgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\ReverseNodeKgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\NumIslands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\NumIslands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Nqueens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\Nqueens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\MaxDepth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\MaxDepth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\InvertTreeIterative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\InvertTreeIterative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\SumToLeafNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\SumToLeafNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\LeastCommonAncestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\LeastCommonAncestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Reverse2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\Reverse2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\ConstructTreePreorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\ConstructTreePreorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\ReverseLinkList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\ReverseLinkList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Ransom Note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\Ransom Note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\RemoveNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\RemoveNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\RotateList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\RotateList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\StringCompress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\StringCompress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\3sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\3sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\BFS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\BFS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\InvertTreeRecursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\InvertTreeRecursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Leet_26_RemoveDuplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\Leet_26_RemoveDuplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\LetterCombination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\LetterCombination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\CombinationSum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\CombinationSum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\GroupAnagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\GroupAnagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Snowflake_10_RegularExpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\Snowflake_10_RegularExpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\DFS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\DFS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\SpiralMatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\SpiralMatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\MeetingRooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\MeetingRooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\MySnakeAndLadders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\MySnakeAndLadders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\LCP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\LCP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\JumpGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\JumpGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\MergeArray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\MergeArray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\SnakesAndLadders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\SnakesAndLadders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\BuySellStocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeetCode\\BuySellStocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\Educative\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Educative\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\Educative\\MaximizeCapital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Educative\\MaximizeCapital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\Educative\\ManageIntervals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Educative\\ManageIntervals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0849e941-4665-42e5-8dd0-e4c8da15dbd0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2Dmatrix.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Binary Search\\2Dmatrix.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Binary Search\\2Dmatrix.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Binary Search\\2Dmatrix.cs",
+              "RelativeToolTip": "LeetCode\\Binary Search\\2Dmatrix.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T12:57:28.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SurroundedRegion.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\SurroundedRegion.cs",
+              "RelativeDocumentMoniker": "LeetCode\\SurroundedRegion.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\SurroundedRegion.cs",
+              "RelativeToolTip": "LeetCode\\SurroundedRegion.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T09:30:27.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumberOfIslands.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\NumberOfIslands.cs",
+              "RelativeDocumentMoniker": "LeetCode\\NumberOfIslands.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\NumberOfIslands.cs",
+              "RelativeToolTip": "LeetCode\\NumberOfIslands.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:49:57.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Program.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Program.cs",
+              "RelativeToolTip": "LeetCode\\Program.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAMkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-08T06:59:08.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RemoveDuplicates.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\RemoveDuplicates.cs",
+              "RelativeDocumentMoniker": "LeetCode\\RemoveDuplicates.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\RemoveDuplicates.cs",
+              "RelativeToolTip": "LeetCode\\RemoveDuplicates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-08T11:50:39.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RemoveElement.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\RemoveElement.cs",
+              "RelativeDocumentMoniker": "LeetCode\\RemoveElement.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\RemoveElement.cs",
+              "RelativeToolTip": "LeetCode\\RemoveElement.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAqwGcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:01:57.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReverseNodeKgroup.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\ReverseNodeKgroup.cs",
+              "RelativeDocumentMoniker": "LeetCode\\ReverseNodeKgroup.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\ReverseNodeKgroup.cs",
+              "RelativeToolTip": "LeetCode\\ReverseNodeKgroup.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwFIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:28:06.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NumIslands.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\NumIslands.cs",
+              "RelativeDocumentMoniker": "LeetCode\\NumIslands.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\NumIslands.cs",
+              "RelativeToolTip": "LeetCode\\NumIslands.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwCAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-29T12:59:37.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Educative.csproj",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\Educative\\Educative.csproj",
+              "RelativeDocumentMoniker": "Educative\\Educative.csproj",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\Educative\\Educative.csproj",
+              "RelativeToolTip": "Educative\\Educative.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-06-30T13:39:57.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Binary Search\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Binary Search\\BinarySearch.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Binary Search\\BinarySearch.cs",
+              "RelativeToolTip": "LeetCode\\Binary Search\\BinarySearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:48:55.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Nqueens.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Nqueens.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Nqueens.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Nqueens.cs",
+              "RelativeToolTip": "LeetCode\\Nqueens.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:11:53.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MaxDepth.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\MaxDepth.cs",
+              "RelativeDocumentMoniker": "LeetCode\\MaxDepth.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\MaxDepth.cs",
+              "RelativeToolTip": "LeetCode\\MaxDepth.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwDkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:11:05.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvertTreeIterative.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\InvertTreeIterative.cs",
+              "RelativeDocumentMoniker": "LeetCode\\InvertTreeIterative.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\InvertTreeIterative.cs",
+              "RelativeToolTip": "LeetCode\\InvertTreeIterative.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA2wB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:29:07.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SumToLeafNode.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\SumToLeafNode.cs",
+              "RelativeDocumentMoniker": "LeetCode\\SumToLeafNode.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\SumToLeafNode.cs",
+              "RelativeToolTip": "LeetCode\\SumToLeafNode.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwCwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:00:50.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeastCommonAncestor.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\LeastCommonAncestor.cs",
+              "RelativeDocumentMoniker": "LeetCode\\LeastCommonAncestor.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\LeastCommonAncestor.cs",
+              "RelativeToolTip": "LeetCode\\LeastCommonAncestor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:01:30.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Reverse2.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Reverse2.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Reverse2.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Reverse2.cs",
+              "RelativeToolTip": "LeetCode\\Reverse2.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAswGMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T05:31:04.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConstructTreePreorder.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\ConstructTreePreorder.cs",
+              "RelativeDocumentMoniker": "LeetCode\\ConstructTreePreorder.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\ConstructTreePreorder.cs",
+              "RelativeToolTip": "LeetCode\\ConstructTreePreorder.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwCEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:02:59.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReverseLinkList.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\ReverseLinkList.cs",
+              "RelativeDocumentMoniker": "LeetCode\\ReverseLinkList.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\ReverseLinkList.cs",
+              "RelativeToolTip": "LeetCode\\ReverseLinkList.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAMwBoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T16:32:08.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ransom Note.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Ransom Note.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Ransom Note.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Ransom Note.cs",
+              "RelativeToolTip": "LeetCode\\Ransom Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-29T14:16:52.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RemoveNode.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\RemoveNode.cs",
+              "RelativeDocumentMoniker": "LeetCode\\RemoveNode.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\RemoveNode.cs",
+              "RelativeToolTip": "LeetCode\\RemoveNode.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAADsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:19:34.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RotateList.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\RotateList.cs",
+              "RelativeDocumentMoniker": "LeetCode\\RotateList.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\RotateList.cs",
+              "RelativeToolTip": "LeetCode\\RotateList.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:07:24.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StringCompress.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\StringCompress.cs",
+              "RelativeDocumentMoniker": "LeetCode\\StringCompress.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\StringCompress.cs",
+              "RelativeToolTip": "LeetCode\\StringCompress.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:08:54.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "3sum.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\3sum.cs",
+              "RelativeDocumentMoniker": "LeetCode\\3sum.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\3sum.cs",
+              "RelativeToolTip": "LeetCode\\3sum.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:47:31.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BFS.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\BFS.cs",
+              "RelativeDocumentMoniker": "LeetCode\\BFS.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\BFS.cs",
+              "RelativeToolTip": "LeetCode\\BFS.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA2wCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-29T10:51:21.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InvertTreeRecursion.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\InvertTreeRecursion.cs",
+              "RelativeDocumentMoniker": "LeetCode\\InvertTreeRecursion.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\InvertTreeRecursion.cs",
+              "RelativeToolTip": "LeetCode\\InvertTreeRecursion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:01:58.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Leet_26_RemoveDuplicates.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Leet_26_RemoveDuplicates.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Leet_26_RemoveDuplicates.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Leet_26_RemoveDuplicates.cs",
+              "RelativeToolTip": "LeetCode\\Leet_26_RemoveDuplicates.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:06:28.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LetterCombination.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\LetterCombination.cs",
+              "RelativeDocumentMoniker": "LeetCode\\LetterCombination.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\LetterCombination.cs",
+              "RelativeToolTip": "LeetCode\\LetterCombination.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:44:32.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CombinationSum.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\CombinationSum.cs",
+              "RelativeDocumentMoniker": "LeetCode\\CombinationSum.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\CombinationSum.cs",
+              "RelativeToolTip": "LeetCode\\CombinationSum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:31:28.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GroupAnagrams.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\GroupAnagrams.cs",
+              "RelativeDocumentMoniker": "LeetCode\\GroupAnagrams.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\GroupAnagrams.cs",
+              "RelativeToolTip": "LeetCode\\GroupAnagrams.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:00:27.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Snowflake_10_RegularExpression.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Snowflake_10_RegularExpression.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Snowflake_10_RegularExpression.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\Snowflake_10_RegularExpression.cs",
+              "RelativeToolTip": "LeetCode\\Snowflake_10_RegularExpression.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:56:39.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DFS.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\DFS.cs",
+              "RelativeDocumentMoniker": "LeetCode\\DFS.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\DFS.cs",
+              "RelativeToolTip": "LeetCode\\DFS.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-28T07:15:29.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SpiralMatrix.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\SpiralMatrix.cs",
+              "RelativeDocumentMoniker": "LeetCode\\SpiralMatrix.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\SpiralMatrix.cs",
+              "RelativeToolTip": "LeetCode\\SpiralMatrix.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwCIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-14T15:18:57.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MeetingRooms.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\MeetingRooms.cs",
+              "RelativeDocumentMoniker": "LeetCode\\MeetingRooms.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\MeetingRooms.cs",
+              "RelativeToolTip": "LeetCode\\MeetingRooms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-09T14:30:02.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MySnakeAndLadders.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\MySnakeAndLadders.cs",
+              "RelativeDocumentMoniker": "LeetCode\\MySnakeAndLadders.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\MySnakeAndLadders.cs",
+              "RelativeToolTip": "LeetCode\\MySnakeAndLadders.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-19T05:35:12.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LCP.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\LCP.cs",
+              "RelativeDocumentMoniker": "LeetCode\\LCP.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\LCP.cs",
+              "RelativeToolTip": "LeetCode\\LCP.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwDgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-10T06:03:32.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "JumpGame.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\JumpGame.cs",
+              "RelativeDocumentMoniker": "LeetCode\\JumpGame.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\JumpGame.cs",
+              "RelativeToolTip": "LeetCode\\JumpGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-16T10:28:02.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MergeArray.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\MergeArray.cs",
+              "RelativeDocumentMoniker": "LeetCode\\MergeArray.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\MergeArray.cs",
+              "RelativeToolTip": "LeetCode\\MergeArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-08T07:00:04.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SnakesAndLadders.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\SnakesAndLadders.cs",
+              "RelativeDocumentMoniker": "LeetCode\\SnakesAndLadders.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\SnakesAndLadders.cs",
+              "RelativeToolTip": "LeetCode\\SnakesAndLadders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-18T08:49:46.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BuySellStocks.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\BuySellStocks.cs",
+              "RelativeDocumentMoniker": "LeetCode\\BuySellStocks.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\LeetCode\\BuySellStocks.cs",
+              "RelativeToolTip": "LeetCode\\BuySellStocks.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAwD8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-15T17:03:18.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\Educative\\Program.cs",
+              "RelativeDocumentMoniker": "Educative\\Program.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\Educative\\Program.cs",
+              "RelativeToolTip": "Educative\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-01T07:43:24.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MaximizeCapital.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\Educative\\MaximizeCapital.cs",
+              "RelativeDocumentMoniker": "Educative\\MaximizeCapital.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\Educative\\MaximizeCapital.cs",
+              "RelativeToolTip": "Educative\\MaximizeCapital.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAADwv18AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-30T13:38:13.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ManageIntervals.cs",
+              "DocumentMoniker": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\Educative\\ManageIntervals.cs",
+              "RelativeDocumentMoniker": "Educative\\ManageIntervals.cs",
+              "ToolTip": "D:\\Documents\\Personal\\Interview\\DatastructureandAlgo\\Educative\\Educative\\ManageIntervals.cs",
+              "RelativeToolTip": "Educative\\ManageIntervals.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-30T13:37:39.131Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

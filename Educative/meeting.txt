@@ -1,0 +1,97 @@
+Using System.Collections.Generic;
+
+public class Solution 
+{
+	public class MyMeeting
+	{
+		int start;
+		int end;
+		int meetingId;
+		
+		public MyMeeting(int s, int e)
+		{
+			start=s;
+			end=e;
+			meetingId=123;
+		
+		}
+
+	}
+    
+	public int MostBooked(int n, int[][] meetings) 
+	{
+		bool [] meetingRoom = new int [n];
+
+		for(int k=0;k<n;k++)
+		{
+			meetingRoom[k]=true;
+		}
+		
+		List<MyMeeting> RemainingmeetingList = new List<MyMeeting>
+		
+		for(int m=0;m<meetings.GetLength(0);m++)
+		{
+			MyMeeting current = new Meeting (meetings[m,0],meetings[m,1]);
+			meetingList.Add(current);
+		}
+		
+		//SortedDictionary<int,MyMeeting> meetingBoard= new SortedDictionary<int,MyMeeting>
+		Dictionary<int,int>MeetingToRoomMap= new Dictionary<int,int>();
+		
+		List<MyMeeting> currentMeetingList = new List<MyMeeting>();
+						
+		int currentTime=0;
+		while(1)
+		{
+			currentTime+=1;
+			if(RemainingmeetingList.Count==0)
+			{	
+				break;
+			}
+		
+			
+			MyMeeting meetingToAssign=RemainingmeetingList[0];
+		
+			if(currentMeetingList.Count==0)
+			{
+				meetingRoom[0]=false;
+				currentMeetingList.Add(meetingToAssign);
+				MeetingToRoomMap[0]=meetingToAssign.meetingId;
+				
+			}
+			
+			else
+			{
+				foreach(MyMeeting meeting in currentMeetingList)
+				{
+					if(meeting.end==currentTime)
+					{
+					
+					
+					}
+						
+				}
+			
+			
+			
+			}
+				
+			//Assign the meeting to the room
+					
+			
+		
+			//check in the map if any of the meeting has compelted.
+			//if you found any such meeting ,make the room available
+			
+			
+			//Find the room with least index which is available 
+			
+			
+			//assign the meeting to the that room
+			
+		
+		}
+		
+        
+    }
+}
